@@ -1,7 +1,7 @@
 # Calculate String Rotation => https://www.codewars.com/kata/5596f6e9529e9ab6fb000014
 
 
-def shifted_diff(first: str, second: str):
+def shifted_diff(first: str, second: str) -> int:
     if first == second:
         return 0
     elif (
