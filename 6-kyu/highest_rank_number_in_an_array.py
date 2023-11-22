@@ -3,7 +3,7 @@
 from collections import Counter
 
 
-def highest_rank(arr):
+def highest_rank(arr) -> int:
     arr_counter = Counter(arr)
     v_max = max([x for x in arr_counter.values()])
     return max([x for x in filter(lambda v: arr_counter[v] == v_max, arr)])
