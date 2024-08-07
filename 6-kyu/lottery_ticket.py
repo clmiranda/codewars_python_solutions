@@ -1,3 +1,6 @@
+# Lottery Ticket => https://www.codewars.com/kata/57f625992f4d53c24200070e
+
+
 def bingo(ticket, win) -> str:
     return (
         "Winner!"
