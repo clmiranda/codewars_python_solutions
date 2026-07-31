@@ -1,0 +1,10 @@
+# Multiplication table => https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08
+
+def multiplication_table(size: int) -> list[list[int]]:
+    return [[i * j for i in range(1, size + 1)] for j in range(1, size + 1)]
+
+print(multiplication_table(1))
+print(multiplication_table(2))
+print(multiplication_table(3))
+print(multiplication_table(4))
+print(multiplication_table(5))
