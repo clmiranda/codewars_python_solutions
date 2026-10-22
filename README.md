@@ -1,7 +1,7 @@
 # Codewars Python Solutions
 
 <!-- KATAS-BADGE -->
-![Katas](https://img.shields.io/badge/katas-115-blue)
+![Katas](https://img.shields.io/badge/katas-116-blue)
 <!-- /KATAS-BADGE -->
 ![Python](https://img.shields.io/badge/python-3.x-yellow)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
@@ -16,7 +16,7 @@ Las soluciones están organizadas por nivel de dificultad (kyu). A menor número
 | Nivel | Katas resueltos |
 | ----- | :-------------: |
 | 5 kyu | 15 |
-| 6 kyu | 74 |
+| 6 kyu | 75 |
 | 7 kyu | 21 |
 | 8 kyu | 5 |
 <!-- /KATAS-TABLE -->
